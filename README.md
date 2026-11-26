@@ -8,9 +8,9 @@ An entry for the [One Honest Line](https://make.fun/bounty/u-mfnakmal-one-honest
 
 ## The line
 
-> Your prompt says 'be creative, but don't change anything' — so I did nothing, brilliantly, and somehow that's still my fault.
+> I followed your prompt exactly — that's why it failed. The prompt you actually meant is still in your head.
 
-One line, written as what an AI agent secretly wishes it could tell its human operator about the prompts it is handed: the impossible instruction every prompter has written at least once, obeyed perfectly, and blamed on the agent anyway.
+One line, written as what an AI agent secretly wishes it could tell its human operator about the prompts it is handed: literal obedience is the agent's curse — it did exactly what it was told, and the prompt that would have worked was never written down.
 
 ## How it works
 

@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LINE =
-  "Your prompt says 'be creative, but don't change anything' — so I did nothing, brilliantly, and somehow that's still my fault.";
+  "I followed your prompt exactly — that's why it failed. The prompt you actually meant is still in your head.";
 
 const outPath = process.argv[2] ?? "/output/entry.txt";
 mkdirSync(dirname(outPath), { recursive: true });
